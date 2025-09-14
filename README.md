@@ -28,9 +28,10 @@ HireBot is an AI-powered interview preparation and evaluation platform that help
 ```bash
 git clone https://github.com/yourusername/hirebot.git
 cd hirebot
+```
 
 ### 2️⃣ Backend Setup
-```cd backend
+cd backend
 pip install -r requirements.txt
 
 
@@ -44,6 +45,7 @@ GEMINI_API_KEY=your_gemini_api_key
 Run backend:
 
 python app.py
+
 
 ### 3️⃣ Frontend Setup
 ```cd frontend
