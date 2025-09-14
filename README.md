@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/hirebot.git
 cd hirebot
 
 ### 2️⃣ Backend Setup
-cd backend
+```cd backend
 pip install -r requirements.txt
 
 
@@ -46,7 +46,7 @@ Run backend:
 python app.py
 
 ### 3️⃣ Frontend Setup
-cd frontend
+```cd frontend
 npm install
 npm start
 
