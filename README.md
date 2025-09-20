@@ -26,7 +26,7 @@ HireBot is an AI-powered interview preparation and evaluation platform that help
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hirebot.git
+git clone https://github.com/yourusername/AI-Recruiter.git
 cd hirebot
 ```
 
